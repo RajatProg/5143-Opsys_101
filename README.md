@@ -1,5 +1,5 @@
 ## Rajat Kumar Parida
-#### Repo: 5143-Opsys_101
+#### Repo: 5143 Operating Systems 101
 #### Email: rparida0105@my.msutexas.edu
 
 #### Image:
