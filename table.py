@@ -12,7 +12,6 @@ mylist = ["a","b","c"]
 console = Console()
 terminal_width = console.width
 
-
 def get_num():
     """ Helper for make row
     """
